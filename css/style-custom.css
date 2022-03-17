@@ -1,0 +1,9 @@
+.custom-nav-logo-light, .custom-nav-logo-dark {
+  max-height: 50rem !important;
+}
+
+.custom-no-pseudo-change:hover a::before,
+.custom-no-pseudo-change a::before {
+  content: '' !important;
+}
+/*# sourceMappingURL=style-custom.css.map */

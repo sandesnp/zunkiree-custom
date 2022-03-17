@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACEG,AAAD,sBAAgB,EACf,qBAAc,CAAC;EACd,UAAU,EAAE,gBAAgB;CAC7B;;AAEA,AACC,wBADgB,AACf,MAAM,CAAC,CAAC,AAAA,QAAQ;AADlB,wBAAiB,CAEhB,CAAC,AAAA,QAAQ,CAAC;EACR,OAAO,EAAE,aAAa;CACvB",
+    "sources": [
+        "../../niwax-custom-sass/style-custom.scss",
+        "../../niwax-custom-sass/file/_index.scss"
+    ],
+    "names": [],
+    "file": "style-custom.css"
+}
