@@ -6,4 +6,9 @@
 .custom-no-pseudo-change a::before {
   content: '' !important;
 }
+
+.custom-footer-social-media-icons a {
+  font-size: initial;
+  margin: initial;
+}
 /*# sourceMappingURL=style-custom.css.map */

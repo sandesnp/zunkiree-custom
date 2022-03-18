@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ACEG,AAAD,sBAAgB,EACf,qBAAc,CAAC;EACd,UAAU,EAAE,gBAAgB;CAC7B;;AAEA,AACC,wBADgB,AACf,MAAM,CAAC,CAAC,AAAA,QAAQ;AADlB,wBAAiB,CAEhB,CAAC,AAAA,QAAQ,CAAC;EACR,OAAO,EAAE,aAAa;CACvB",
+    "mappings": "ACEG,AAAD,sBAAgB,EACf,qBAAc,CAAC;EACd,UAAU,EAAE,gBAAgB;CAC7B;;AAEA,AACC,wBADgB,AACf,MAAM,CAAC,CAAC,AAAA,QAAQ;AADlB,wBAAiB,CAEhB,CAAC,AAAA,QAAQ,CAAC;EACR,OAAO,EAAE,aAAa;CACvB;;AAGF,AACC,iCADyB,CACzB,CAAC,CAAC;EACA,SAAS,EAAE,OAAO;EAClB,MAAM,EAAE,OAAO;CAChB",
     "sources": [
         "../../niwax-custom-sass/style-custom.scss",
         "../../niwax-custom-sass/file/_index.scss"
